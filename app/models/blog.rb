@@ -5,7 +5,7 @@ include CommonModule
 before_create BlogCallback.new
 # before_create :default_title
 # before_create :default_content
-# test_puts
+test_puts
 
 # private
 #   def default_title
